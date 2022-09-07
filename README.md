@@ -1,1 +1,1 @@
-Pruebas de gestión de dependencias
+Some exercises from the Microsoft's beginners Python course
